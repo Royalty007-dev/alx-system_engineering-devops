@@ -1,2 +1,1 @@
-#/bin/bash
-ls -la
+Display current directory contents, including hidden files (starting with .).
